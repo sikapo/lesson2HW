@@ -5,16 +5,15 @@ public class Car {
         startFuelSystem();
     }
 
-    private void startFuelSystem() {
-        System.out.println("startFuelSystem");
-    }
-
-    private void startCommand() {
-        System.out.println("startCommand");
-    }
-
     private void startElectricity() {
         System.out.println("startElectricity");
     }
 
+    private void startCommand() {
+            System.out.println("startCommand");
+    }
+
+    private void startFuelSystem() {
+        System.out.println("startFuelSystem");
+    }
 }

@@ -5,7 +5,7 @@ public class SameName {
     public int age;
 
     public SameName(String name, int age) {
-        this(12);
+        this(18);
         this.name = name;
     }
 
